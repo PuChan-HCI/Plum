@@ -28,7 +28,9 @@ SWIRカメラ（高原として1000nm〜1450nm）で梅の内部を観察して�
 
 - 複数の梅をスキャンした結果，赤外線で梅の内部が透けて見えます．
 
-<video src="img/1.mp4" autoplay muted>></video>
+<video src="img/1.mp4" controls width="300">
+  Your browser does not support the video tag.
+</video>
 
 - 一個の梅をスキャンしました
 
