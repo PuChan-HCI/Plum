@@ -28,17 +28,15 @@ SWIRカメラ（高原として1000nm〜1450nm）で梅の内部を観察して�
 
 - 複数の梅をスキャンした結果，赤外線で梅の内部が透けて見えます．
 
-<video src="img/1.mp4" controls width="300">
-  Your browser does not support the video tag.
-</video>
+<img src="img/1.gif" controls width="500">
 
 - 一個の梅をスキャンしました
 
-<video controls src="img/2.mp4" muted="false"></video>
+<img src="img/2.gif" controls width="500">
 
 - アカマダラケシキスイが深く入ると見えません．
 
-<video controls src="img/3.mp4" muted="false"></video>
+<img src="img/3.gif" controls width="500">
 
 
 
